@@ -36,7 +36,7 @@
     "plugins" : ["notifications", "messages", "events", "contents", "participants", "addcontact", "sendmessage", "forum", "label", "url", "page", "resource", "mootes14"],
     "wsservice" : "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "presets" : {"url": "http://localhost:8080/moodle/", "username": ""},
+    "presets" : {"url": "http://demo.iantlms.com", "username": ""},
     "sync_ws_on" : true,
     "sync_css_on" : true,
     "sync_cron": 300000,
@@ -50,7 +50,7 @@
     "gcmpn": "694767596569",
     "reportbugmail": "mobile@moodle.com",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://localhost:8080/moodle/",
+    "siteurl": "http://demo.iantlms.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
